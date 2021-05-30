@@ -32,7 +32,7 @@
     width: 50%;
   padding-right: 270px;
   }  
-  }
+  
 
 @media (max-width: 768px) {
   .top_nav_container {
@@ -64,6 +64,7 @@
 .boxbox  {
   justify-content: center;
   margin: 0 100px;
+  padding-right: 15px;
   top: 100%;
   
   }
