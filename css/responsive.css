@@ -29,6 +29,7 @@
 
   .search_form {
     margin: 0;
+    width: 150px;
 }
 
 @media (max-width: 768px) {
