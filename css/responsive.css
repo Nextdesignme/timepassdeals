@@ -29,8 +29,10 @@
 
   .search_form {
     margin: 0;
-    
-}
+    width: 50%;
+  padding-right: 270px;
+  }  
+  }
 
 @media (max-width: 768px) {
   .top_nav_container {
