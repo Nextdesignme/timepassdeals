@@ -30,7 +30,7 @@
   .search_form {
     margin: 0;
     width: 200px;
-  margin-left: -20px;
+  margin-left: -200px;
 }
 
 @media (max-width: 768px) {
