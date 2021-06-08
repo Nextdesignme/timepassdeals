@@ -802,7 +802,7 @@ a:focus {
   text-align: center;
   line-height: 40px;
   font-size: 20px;
-  margin: 0 10px;
+  margin: 100px 10px 100px 10px;
   display: block;
   border-radius: 50%;
   position: relative;
